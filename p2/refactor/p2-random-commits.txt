@@ -1,0 +1,2 @@
+f76a4cc36f61d4fe43c06b8ee82372a86f6eb29e Added getRandomLetter()
+9443d30a248d13d930072a4d587f5b6905231055 First commit

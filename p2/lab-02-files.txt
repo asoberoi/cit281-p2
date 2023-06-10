@@ -1,0 +1,3 @@
+.gitignore
+Hangman-Game
+lab-02.js
